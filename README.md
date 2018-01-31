@@ -34,7 +34,7 @@ https://github.com/alexa/alexa-avs-sample-app/wiki/Create-Security-Profile
 ***************************************************************
 1. Clone the git using:
 ```
-git clone https://github.com/shivasiddharth/Assistants-Pi  
+https://github.com/ElectrooPi/alexa.git  
 ```
 2. Make the installers executable using:
 ```
